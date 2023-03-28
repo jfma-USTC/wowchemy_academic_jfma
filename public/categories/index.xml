@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | JeffreyMa</title>
+    <link>https://jfma-USTC.github.io/categories/</link>
+      <atom:link href="https://jfma-USTC.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jfma-USTC.github.io/media/icon_hua6d31e85616f4746a4757e0335d0b000_37979_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://jfma-USTC.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
