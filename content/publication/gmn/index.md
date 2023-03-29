@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2022-07-24T00:00:00Z'
-doi: ''
+doi: '10.18653/v1/2022.naacl-main.276'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-07T00:00:00Z'
@@ -38,7 +38,7 @@ summary: This paper proposes Generative Multi-modal Network (GMN) for real-world
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

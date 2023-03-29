@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2021-03-24T00:00:00Z'
-doi: ''
+doi: '10.1007/978-3-030-87355-4_20'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-02-07T00:00:00Z'
@@ -38,7 +38,7 @@ summary: We present a highly efficient code library of 2D-GMM-HMM based on Kaldi
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -86,5 +86,8 @@ email: ''
 highlight_name: true
 ---
 
-My name is Jiefeng Ma, but you may also refer to me as Jeffrey. I am currently in my third year as a PhD candidate at the NERC-SLIP Lab, where I have the privilege of working under the guidance of Prof. Du. My research endeavors primarily revolve around document intelligence, multimodal learning, and AI Generated Content (AIGC). As the field of AIGC continues to grow, it encompasses the creation and optimization of content using advanced artificial intelligence techniques. I am dedicated to contributing significantly to this area through rigorous investigation and innovative problem-solving as I progress in my academic pursuits.
+My name is Jiefeng Ma, but you may also refer to me as Jeffrey. I am currently in my third year as a PhD candidate at the NERC-SLIP Lab, where I have the privilege of working under the guidance of Prof. Du. My research endeavors primarily revolve around document intelligence, multimodal learning, and AI Generated Content (AIGC). 
+{style="text-align: justify;"}
+
+As the field of AIGC continues to grow, it encompasses the creation and optimization of content using advanced artificial intelligence techniques. I am dedicated to contributing significantly to this area through rigorous investigation and innovative problem-solving as I progress in my academic pursuits.
 {style="text-align: justify;"}

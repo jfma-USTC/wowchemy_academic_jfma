@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2022-10-24T00:00:00Z'
-doi: ''
+doi: '10.1145/3503161.3547877'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-07T00:00:00Z'
@@ -38,7 +38,7 @@ summary: In contrast to existing studies mainly tailored for document cases in k
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -47,100 +47,38 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+
   - block: features
     content:
       title: Skills
+      # !* Icons can be choosed through: https://fontawesome.com/icons
       items:
         - name: Python
-          description: 80%
+          # description: 80%
           icon: python
           icon_pack: fab
         - name: Linux
-          description: 70%
+          # description: 70%
           icon: linux
           icon_pack: fab
         - name: Markdown
-          description: 70%
+          # description: 70%
           icon: markdown
           icon_pack: fab
         - name: C++
-          description: 70%
+          # description: 70%
           icon: c
           icon_pack: fas
-        - name: Photography
-          description: 50%
-          icon: camera-retro
-          icon_pack: fas
         - name: Shell
-          description: 50%
+          # description: 50%
           icon: terminal
           icon_pack: fas
-
-  - block: accomplishments
-    id: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://stuhome.ustc.edu.cn/2019/0528/c2299a381732/page.htm
-          date_end: '2019-07-01'
-          date_start: '2017-07-01'
-          description: 'Silver Award **(Top 10%)** / Gold Award **(Top 1%)** / Silver Award **(Top 10%)**'
-          organization: USTC
-          organization_url: http://en.ustc.edu.cn/
-          title: Excellent Student Scholarship
-          url: 'https://stuhome.ustc.edu.cn/2019/0528/c2299a381732/page.htm'
-        - certificate_url: http://news.ustc.edu.cn/info/1032/22010.htm
-          date_end: '2018-10-30'
-          date_start: '2018-07-01'
-          description: 'Served as the **team leader**, in charge of mechanical structure design and code implemention on STM-32.'
-          organization: USTC
-          organization_url: http://en.ustc.edu.cn/
-          title: 'First Prize in RoboGame Competition'
-          url: 'http://news.ustc.edu.cn/info/1032/22010.htm'
-        - certificate_url: https://stuhome.ustc.edu.cn/2020/0705/c2299a435809/pagem.htm
-          date_end: ''
-          date_start: '2020-07-05'
-          description: 'Selected as **outstanding graduate** of the school in 2020.'
-          organization: USTC
-          organization_url: http://en.ustc.edu.cn/
-          title: 'Outstanding Graduate'
-          url: 'https://stuhome.ustc.edu.cn/2020/0705/c2299a435809/pagem.htm'
-        - certificate_url: https://sist.ustc.edu.cn/2018/0531/c5101a263342/page.htm
-          date_end: '2019-05-01'
-          date_start: '2018-05-01'
-          description: 'Served as the **vice president** of School of Information Science and Technology Student Union, in charge of the practice and volunteer team.'
-          organization: USTC
-          organization_url: https://en.sist.ustc.edu.cn/main.htm
-          title: 'Vice President of the School Student Union'
-          url: 'http://news.ustc.edu.cn/info/1032/22010.htm'
-        - certificate_url: http://stuhome.ustc.edu.cn/2018/0506/c2314a259049/pagem.htm
-          date_end: '2018-05-01'
-          date_start: '2017-05-01'
-          description: 'Served as the **president** of the USTC School of Information Science and Technology Youth Volunteer Association and Youth League Committee Office.'
-          # , planned and organized activities such as "4:30 Classroom" and Science and Technology Exhibition, serving over two thousand students and citizens
-          organization: USTC
-          organization_url: https://en.sist.ustc.edu.cn/main.htm
-          title: 'President of the School Youth Volunteer Association and Youth League Committee Office'
-          url: 'https://en.sist.ustc.edu.cn/main.htm'
-        - certificate_url: https://www.heywhale.com/home/competition/5f703ac023f41e002c3ed5e4/leaderboard
-          date_end: '2020-10-01'
-          date_start: '2020-09-01'
-          description: '**First place winner** of the Education Handwritten Formula Recognition Competition in the Smart Education Subject Competition of the 5th China Innovation Challenge. (1/250)'
-          organization: Heywhale
-          organization_url: https://www.heywhale.com/home/
-          title: 'First Place Winner'
-          url: 'https://www.heywhale.com/home/competition/5f703ac023f41e002c3ed5e4/leaderboard'
+        - name: Perl
+          # description: 50%
+          icon: p
+          icon_pack: fas
     design:
-      columns: '2'
+      columns: '4'
 
   - block: experience
     id: experience
@@ -168,7 +106,9 @@ sections:
               * Document reconstruction
               * Mathematical reasoning
 
-              Collaborators and Friends: [Jianshu Zhang (张建树)](http://home.ustc.edu.cn/~xysszjs/), [Zhenrong Zhang (张镇荣)](https://www.researchgate.net/scientific-contributions/Zhenrong-Zhang-2202217766), [Pengfei Hu (胡鹏飞)]
+              Collaborators and Friends: [Jianshu Zhang (张建树)](http://home.ustc.edu.cn/~xysszjs/), [Zhenrong Zhang (张镇荣)](https://www.researchgate.net/scientific-contributions/Zhenrong-Zhang-2202217766)
+              
+          # , [Pengfei Hu (胡鹏飞)]
         
         - title: Research Intern - Document AI
           company: YouTu Lab, Tencent
@@ -185,7 +125,9 @@ sections:
 
               Collaborators and Friends: [Haoyu Cao (曹浩宇)](https://scholar.google.com/citations?user=LV8ejn8AAAAJ&hl=zh-CN), [Zhongzhong Li (李中中)](http://home.ustc.edu.cn/~lizhogn/), [Sheng Kang (康昇)](https://techkang.github.io/), [Wenwen Yu (余文文)](https://www.yuwenwen.site/)
     design:
-      columns: '2'
+      columns: '4'
+
+
 
   # - block: collection
   #   id: posts
@@ -255,29 +197,29 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: Featured Publications
       filters:
         folders:
           - publication
-        # featured_only: true
+        featured_only: true
     design:
       columns: '2'
       view: card
 
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        # exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   # - block: collection
   #   id: talks
@@ -295,6 +237,74 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+
+
+  - block: accomplishments
+    id: honors
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      # title: 'Accomplish&shy;ments'
+      title: 'Selected Honors'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - 
+          date_end: '2019-07-01'
+          date_start: '2017-07-01'
+          description: 'Silver Award **(Top 10%)** / Gold Award **(Top 1%)** / Silver Award **(Top 10%)**'
+          organization: USTC
+          organization_url: http://en.ustc.edu.cn/
+          title: Excellent Student Scholarship
+          url: 'https://stuhome.ustc.edu.cn/2019/0528/c2299a381732/page.htm'
+        - 
+          date_end: '2018-10-30'
+          date_start: '2018-07-01'
+          description: 'Served as the **team leader**, in charge of mechanical structure design and code implemention on STM-32.'
+          organization: USTC
+          organization_url: http://en.ustc.edu.cn/
+          title: 'First Prize in RoboGame Competition'
+          url: 'http://news.ustc.edu.cn/info/1032/22010.htm'
+        - 
+          date_end: ''
+          date_start: '2020-07-05'
+          description: 'Selected as **outstanding graduate** of the school in 2020.'
+          organization: USTC
+          organization_url: http://en.ustc.edu.cn/
+          title: 'Outstanding Graduate'
+          url: 'https://stuhome.ustc.edu.cn/2020/0705/c2299a435809/pagem.htm'
+        - 
+          date_end: '2019-05-01'
+          date_start: '2018-05-01'
+          description: 'Served as the **vice president** of School of Information Science and Technology Student Union, in charge of the practice and volunteer team.'
+          organization: USTC
+          organization_url: https://en.sist.ustc.edu.cn/main.htm
+          title: 'Vice President of the School Student Union'
+          url: 'http://news.ustc.edu.cn/info/1032/22010.htm'
+        - 
+          date_end: '2018-05-01'
+          date_start: '2017-05-01'
+          description: 'Served as the **president** of the USTC School of Information Science and Technology Youth Volunteer Association and Youth League Committee Office.'
+          # , planned and organized activities such as "4:30 Classroom" and Science and Technology Exhibition, serving over two thousand students and citizens
+          organization: USTC
+          organization_url: https://en.sist.ustc.edu.cn/main.htm
+          title: 'President of the School Youth Volunteer Association and Youth League Committee Office'
+          url: 'https://en.sist.ustc.edu.cn/main.htm'
+        - 
+          date_end: '2020-10-01'
+          date_start: '2020-09-01'
+          description: '**First place winner** of the Education Handwritten Formula Recognition Competition in the Smart Education Subject Competition of the 5th China Innovation Challenge. (1/250)'
+          organization: Heywhale
+          organization_url: https://www.heywhale.com/home/
+          title: 'First Place Winner'
+          url: 'https://www.heywhale.com/home/competition/5f703ac023f41e002c3ed5e4/leaderboard'
+    design:
+      columns: '4'
 
   - block: contact
     id: contact
